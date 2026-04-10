@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OkBFvrB9gRc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Print\\Desktop\\Unity Mods\\Neon White\\NeonMenuCustomizer\\NeonMenuCustomizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Print\\.nuget\\packages\\magick.net-q8-anycpu\\14.11.1\\magick.net-q8-anycpu.14.11.1.nupkg.sha512",
+    "C:\\Users\\Print\\.nuget\\packages\\magick.net.core\\14.11.1\\magick.net.core.14.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
