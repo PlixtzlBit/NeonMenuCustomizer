@@ -9,6 +9,4 @@ The Player Portrait and the other player image that shows during the end animati
 
 # How to Install
 
-Take the ZIP file from the latest release and extract it. Everything in the Mods folder goes into the Mods folder from Melon Loader, everything from the UserLibs folder goes into the UserLibs folder from Melon Loader. (Magick.NET-License does not go into any folder)
-
-The mod MIGHT work if you don't put any UserLibs (Please still add them so logs are smaller), but GIFs will not work and you may crash as it depends on Magick.NET.
+Take the ZIP file from the latest release and extract it. Everything in the Mods folder goes into the Mods folder from Melon Loader, everything from the UserLibs folder goes into the UserLibs folder from Melon Loader. (Magick.NET-License does not go into any folder) Without the Magick.NET libs (Or the correct version if I ever switch) you may get a lot of errors and your game would be very laggy. Please use Magick.NET and make sure it's updated if the mod is not working or your game starts lagging after updating this mod.
